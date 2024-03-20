@@ -14,5 +14,5 @@ XSONotifications.py code from https://github.com/0xst4n/XSNotifications_discord
 
 ![image](https://github.com/VRCWizard/OSC-XSOverlayNotification/assets/101527472/eaaefe0e-6c90-468b-8e11-be6fbd5c926f)
 
-
-3. Run the .bat file to run the script
+3. Open terminal and type ``pip install python-osc``
+4. Run the .bat file to run the script
