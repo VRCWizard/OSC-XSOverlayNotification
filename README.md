@@ -10,7 +10,7 @@ XSONotifications.py code from https://github.com/0xst4n/XSNotifications_discord
 
 2. Set the ip for the XSNotifier to the IPv4 Address of a computer on the same network (wifi or ethernet)
    - To find the IPv4 Address open up **Terminal** on your computer and type ``ipconfig``
-   - 127.0.0.1 will always send to localhost the computer running this script
+   - 127.0.0.1 will always send to localhost the computer running this script, so if you want to send to another computer use that computers IPv4 address
 
 ![image](https://github.com/VRCWizard/OSC-XSOverlayNotification/assets/101527472/eaaefe0e-6c90-468b-8e11-be6fbd5c926f)
 
