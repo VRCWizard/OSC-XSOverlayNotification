@@ -1,5 +1,5 @@
 # OSC-XSOverlayNotification
-send and string in an osc message to XSOverlay and receive a notification
+send a string in an osc message to XSOverlay and receive a notification
 
 XSONotifications.py code from https://github.com/0xst4n/XSNotifications_discord
 
