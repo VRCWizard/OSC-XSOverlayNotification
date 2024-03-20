@@ -1,5 +1,5 @@
 # OSC-XSOverlayNotification
-send a string in an osc message to XSOverlay and receive a notification
+Send a string in an osc message to XSOverlay and receive a notification. Script created for deaf individual to be able to read messages sent by TTS Voice Wizard on another computer while in VR.
 
 XSONotifications.py code from https://github.com/0xst4n/XSNotifications_discord
 
